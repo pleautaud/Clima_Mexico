@@ -1,0 +1,300 @@
+codings\cp775.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp850.py to en
+codings\cp850.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp852.py to en
+codings\cp852.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp855.py to en
+codings\cp855.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp856.py to en
+codings\cp856.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp857.py to en
+codings\cp857.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp860.py to en
+codings\cp860.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp861.py to en
+codings\cp861.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp862.py to en
+codings\cp862.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp863.py to en
+codings\cp863.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp864.py to en
+codings\cp864.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp865.py to en
+codings\cp865.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp866.py to en
+codings\cp866.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp869.py to en
+codings\cp869.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp874.py to en
+codings\cp874.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp875.py to en
+codings\cp875.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp932.py to en
+codings\cp932.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp949.py to en
+codings\cp949.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\cp950.py to en
+codings\cp950.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\euc_jis_2004.p
+y to encodings\euc_jis_2004.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\euc_jisx0213.p
+y to encodings\euc_jisx0213.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\euc_jp.py to e
+ncodings\euc_jp.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\euc_kr.py to e
+ncodings\euc_kr.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\gb18030.py to
+encodings\gb18030.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\gb2312.py to e
+ncodings\gb2312.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\gbk.py to enco
+dings\gbk.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\hex_codec.py t
+o encodings\hex_codec.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\hp_roman8.py t
+o encodings\hp_roman8.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\hz.py to encod
+ings\hz.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\idna.py to enc
+odings\idna.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso2022_jp.py
+to encodings\iso2022_jp.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso2022_jp_1.p
+y to encodings\iso2022_jp_1.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso2022_jp_2.p
+y to encodings\iso2022_jp_2.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso2022_jp_200
+4.py to encodings\iso2022_jp_2004.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso2022_jp_3.p
+y to encodings\iso2022_jp_3.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso2022_jp_ext
+.py to encodings\iso2022_jp_ext.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso2022_kr.py
+to encodings\iso2022_kr.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_1.py t
+o encodings\iso8859_1.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_10.py
+to encodings\iso8859_10.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_11.py
+to encodings\iso8859_11.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_13.py
+to encodings\iso8859_13.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_14.py
+to encodings\iso8859_14.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_15.py
+to encodings\iso8859_15.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_16.py
+to encodings\iso8859_16.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_2.py t
+o encodings\iso8859_2.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_3.py t
+o encodings\iso8859_3.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_4.py t
+o encodings\iso8859_4.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_5.py t
+o encodings\iso8859_5.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_6.py t
+o encodings\iso8859_6.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_7.py t
+o encodings\iso8859_7.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_8.py t
+o encodings\iso8859_8.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\iso8859_9.py t
+o encodings\iso8859_9.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\johab.py to en
+codings\johab.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\koi8_r.py to e
+ncodings\koi8_r.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\koi8_u.py to e
+ncodings\koi8_u.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\latin_1.py to
+encodings\latin_1.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_arabic.py
+to encodings\mac_arabic.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_centeuro.p
+y to encodings\mac_centeuro.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_croatian.p
+y to encodings\mac_croatian.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_cyrillic.p
+y to encodings\mac_cyrillic.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_farsi.py t
+o encodings\mac_farsi.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_greek.py t
+o encodings\mac_greek.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_iceland.py
+ to encodings\mac_iceland.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_latin2.py
+to encodings\mac_latin2.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_roman.py t
+o encodings\mac_roman.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_romanian.p
+y to encodings\mac_romanian.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mac_turkish.py
+ to encodings\mac_turkish.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\mbcs.py to enc
+odings\mbcs.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\palmos.py to e
+ncodings\palmos.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\ptcp154.py to
+encodings\ptcp154.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\punycode.py to
+ encodings\punycode.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\quopri_codec.p
+y to encodings\quopri_codec.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\raw_unicode_es
+cape.py to encodings\raw_unicode_escape.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\rot_13.py to e
+ncodings\rot_13.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\shift_jis.py t
+o encodings\shift_jis.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\shift_jis_2004
+.py to encodings\shift_jis_2004.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\shift_jisx0213
+.py to encodings\shift_jisx0213.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\string_escape.
+py to encodings\string_escape.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\tis_620.py to
+encodings\tis_620.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\undefined.py t
+o encodings\undefined.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\unicode_escape
+.py to encodings\unicode_escape.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\unicode_intern
+al.py to encodings\unicode_internal.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\utf_16.py to e
+ncodings\utf_16.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\utf_16_be.py t
+o encodings\utf_16_be.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\utf_16_le.py t
+o encodings\utf_16_le.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\utf_32.py to e
+ncodings\utf_32.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\utf_32_be.py t
+o encodings\utf_32_be.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\utf_32_le.py t
+o encodings\utf_32_le.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\utf_7.py to en
+codings\utf_7.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\utf_8.py to en
+codings\utf_8.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\utf_8_sig.py t
+o encodings\utf_8_sig.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\uu_codec.py to
+ encodings\uu_codec.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\encodings\zlib_codec.py
+to encodings\zlib_codec.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\fnmatch.py to fnmatch.py
+c
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\functools.py to functool
+s.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\genericpath.py to generi
+cpath.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\getopt.py to getopt.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\gettext.py to gettext.py
+c
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\glob.py to glob.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\heapq.py to heapq.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\inspect.py to inspect.py
+c
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\keyword.py to keyword.py
+c
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\linecache.py to linecach
+e.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\locale.py to locale.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\ntpath.py to ntpath.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\opcode.py to opcode.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\optparse.py to optparse.
+pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\os.py to os.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\os2emxpath.py to os2emxp
+ath.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\pdb.py to pdb.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\pickle.py to pickle.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\posixpath.py to posixpat
+h.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\pprint.py to pprint.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\quopri.py to quopri.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\random.py to random.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\re.py to re.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\repr.py to repr.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\shlex.py to shlex.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\socket.py to socket.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\sre.py to sre.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\sre_compile.py to sre_co
+mpile.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\sre_constants.py to sre_
+constants.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\sre_parse.py to sre_pars
+e.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\ssl.py to ssl.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\stat.py to stat.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\string.py to string.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\stringprep.py to stringp
+rep.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\struct.py to struct.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\subprocess.py to subproc
+ess.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\tempfile.py to tempfile.
+pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\textwrap.py to textwrap.
+pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\threading.py to threadin
+g.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\token.py to token.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\tokenize.py to tokenize.
+pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\traceback.py to tracebac
+k.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\types.py to types.pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\unittest.py to unittest.
+pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\warnings.py to warnings.
+pyc
+skipping byte-compilation of C:\Python26\ArcGIS10.0\lib\webbrowser.py to webbrow
+ser.pyc
+byte-compiling G:\Archivos\Escuela\Doctos\Varios\Python\progs\Clima\build\bdist.
+win32\winexe\temp\_socket.py to _socket.pyc
+byte-compiling G:\Archivos\Escuela\Doctos\Varios\Python\progs\Clima\build\bdist.
+win32\winexe\temp\_ssl.py to _ssl.pyc
+byte-compiling G:\Archivos\Escuela\Doctos\Varios\Python\progs\Clima\build\bdist.
+win32\winexe\temp\bz2.py to bz2.pyc
+byte-compiling G:\Archivos\Escuela\Doctos\Varios\Python\progs\Clima\build\bdist.
+win32\winexe\temp\select.py to select.pyc
+byte-compiling G:\Archivos\Escuela\Doctos\Varios\Python\progs\Clima\build\bdist.
+win32\winexe\temp\unicodedata.py to unicodedata.pyc
+*** copy extensions ***
+copying C:\Python26\ArcGIS10.0\DLLs\_socket.pyd -> G:\Archivos\Escuela\Doctos\Va
+rios\Python\progs\Clima\dist
+copying C:\Python26\ArcGIS10.0\DLLs\_ssl.pyd -> G:\Archivos\Escuela\Doctos\Vario
+s\Python\progs\Clima\dist
+copying C:\Python26\ArcGIS10.0\DLLs\bz2.pyd -> G:\Archivos\Escuela\Doctos\Varios
+\Python\progs\Clima\dist
+copying C:\Python26\ArcGIS10.0\DLLs\select.pyd -> G:\Archivos\Escuela\Doctos\Var
+ios\Python\progs\Clima\dist
+copying C:\Python26\ArcGIS10.0\DLLs\unicodedata.pyd -> G:\Archivos\Escuela\Docto
+s\Varios\Python\progs\Clima\dist
+*** copy dlls ***
+copying C:\Python26\ArcGIS10.0\w9xpopen.exe -> G:\Archivos\Escuela\Doctos\Varios
+\Python\progs\Clima\dist
+copying C:\Windows\system32\python26.dll -> G:\Archivos\Escuela\Doctos\Varios\Py
+thon\progs\Clima\dist
+setting sys.winver for 'G:\Archivos\Escuela\Doctos\Varios\Python\progs\Clima\dis
+t\python26.dll' to 'py2exe'
+copying C:\Python26\ArcGIS10.0\lib\site-packages\py2exe\run.exe -> G:\Archivos\E
+scuela\Doctos\Varios\Python\progs\Clima\dist\Clima2.3.exe
+
+*** binary dependencies ***
+Your executable(s) also depend on these dlls which are not included,
+you may or may not need to distribute them.
+
+Make sure you have the license if you distribute any of them, and
+make sure you don't distribute files belonging to the operating system.
+
+   USER32.dll - C:\Windows\system32\USER32.dll
+   SHELL32.dll - C:\Windows\system32\SHELL32.dll
+   WSOCK32.dll - C:\Windows\system32\WSOCK32.dll
+   ADVAPI32.dll - C:\Windows\system32\ADVAPI32.dll
+   WS2_32.dll - C:\Windows\system32\WS2_32.dll
+   KERNEL32.dll - C:\Windows\system32\KERNEL32.dll
+
+G:\Archivos\Escuela\Doctos\Varios\Python\progs\Clima>
